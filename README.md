@@ -51,9 +51,11 @@ By changing this file the whole theme will be changed,
 use it carefully, do several tests with colors to find the one you like the most.  
   
 If you want to create a script to change the theme from light to dark automatically, the command is:  
+  
+
 Light  
 * echo '@import url("light.css");' > ~/.themes/Four/gtk-3.0/colors.css  
-Dark
+Dark  
 * echo '@import url("dark.css");' > ~/.themes/Four/gtk-3.0/colors.css  
 With this command it is possible to create a simple script to be used by the terminal,  
 or in a button on a bar like tint2, polybar, xfce4-panel...
