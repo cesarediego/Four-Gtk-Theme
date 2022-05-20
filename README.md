@@ -58,6 +58,7 @@ echo '@import url("light.css");' > ~/.themes/Four/gtk-3.0/colors.css
   
 
 Dark  
-echo '@import url("dark.css");' > ~/.themes/Four/gtk-3.0/colors.css  
+echo '@import url("dark.css");' > ~/.themes/Four/gtk-3.0/colors.css   
+    
 With this command it is possible to create a simple script to be used by the terminal,  
 or in a button on a bar like tint2, polybar, xfce4-panel...
