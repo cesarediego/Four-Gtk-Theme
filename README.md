@@ -26,21 +26,21 @@ This file can be changed manually or in a highly customized script.
 To make modifications manually, you can modify the themes (dark and light), changing the colors that are contained in these files.  
 The theme uses simple logic.  
   
-> These are the accent colors.
->> @define-color red #ef476f;
->> @define-color yellow #e85d04;
->> @define-color green #06d6a0;
->> @define-color blue #118ab2;
->> @define-color purple #c4a3d2;
->> @define-color gray #8e9aaf;
->> @define-color cyan #4cc9f0;
->> @define-color magenta #ff006e;
-> These are the base colors.
->> /**** Background Colors ****/
->> @define-color base #061115;
->> @define-color base-alt #021216;
->> /**** Text Colors ****/
->> @define-color font #f5f5f5;
-> Use one of the accent colors to change this line.
->> /**** Highlight Colors *****/
->> @define-color highlight @blue;
+> These are the accent colors.  
+>> @define-color red #ef476f;  
+>> @define-color yellow #e85d04;  
+>> @define-color green #06d6a0;  
+>> @define-color blue #118ab2;  
+>> @define-color purple #c4a3d2;  
+>> @define-color gray #8e9aaf;  
+>> @define-color cyan #4cc9f0;  
+>> @define-color magenta #ff006e;  
+> These are the base colors.  
+>> /**** Background Colors ****/  
+>> @define-color base #061115;  
+>> @define-color base-alt #021216;  
+>> /**** Text Colors ****/  
+>> @define-color font #f5f5f5;  
+> Use one of the accent colors to change this line.  
+>> /**** Highlight Colors *****/  
+>> @define-color highlight @blue;  
