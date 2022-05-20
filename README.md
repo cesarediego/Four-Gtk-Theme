@@ -35,12 +35,14 @@ The theme uses simple logic.
 >> @define-color gray #8e9aaf;  
 >> @define-color cyan #4cc9f0;  
 >> @define-color magenta #ff006e;  
-> These are the base colors.  
->> /**** Background Colors ****/  
->> @define-color base #061115;  
->> @define-color base-alt #021216;  
->> /**** Text Colors ****/  
->> @define-color font #f5f5f5;  
-> Use one of the accent colors to change this line.  
->> /**** Highlight Colors *****/  
->> @define-color highlight @blue;  
+>    
+>>> These are the base colors.  
+>>>> /**** Background Colors ****/  
+>>>> @define-color base #061115;  
+>>>> @define-color base-alt #021216;  
+>>>> /**** Text Colors ****/  
+>>>> @define-color font #f5f5f5;  
+>  
+>>>> Use one of the accent colors to change this line.  
+>>>>> /**** Highlight Colors *****/  
+>>>>> @define-color highlight @blue;  
