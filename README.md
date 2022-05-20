@@ -9,5 +9,7 @@ essential is left to be used in a window manager.
 git clone https://github.com/cesarediego/Four-Gtk-Theme.git   
 - Check if the ~/.themes directory exists.  
 - If it doesn't exist, create it with mkdir ~/.themes  
-- Copy the theme with:
-cp -r Four ~/.themes
+- Copy the theme with:  
+cp -r Four ~/.themes  
+
+## How to customize?
